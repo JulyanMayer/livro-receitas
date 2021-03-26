@@ -1,4 +1,4 @@
-# Batata Frita
+# Batata Frita :fries: 
 
 ### Ingredientes
 
