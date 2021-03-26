@@ -4,3 +4,4 @@ Seja bem Vindo ao nosso livro de receitas, aqui você vai encontra as seguintes 
 
 - Batata Frita :fries: 
 - Ovo Frito :fried_egg: 
+- Miojo :spaghetti: 
